@@ -1,1 +1,3 @@
-# CrazyClient 28.1.0
+# CrazyClient 29.0.1
+Youtube = MustaWizard
+IGN = Playinlike
